@@ -1,2 +1,1 @@
-# Line-Follower-Robot
-Making line follower robot from scratch. 
+Designed and fabricated a high-performance PCB for a line-following robot based on the STM32F103 microcontroller. The design focuses on power efficiency, signal integrity for IR sensor arrays, and robust motor driving capabilities
